@@ -78,4 +78,18 @@ Weather forecasting plays a crucial role in sectors like agriculture, transporta
 - Use deep learning (LSTM) for better time series forecasting.
 
 ---
+## 🏃‍♂️ How to Run
 
+### 🔧 1. Set Up Environment
+
+- Install required Python libraries:
+  ```bash
+  pip install -r requirements.txt
+--- 
+
+## 👥 Contributors
+
+- **[Ajam Ali]** – Project Lead, Data Preprocessing, Model Development, Dashboard Design  
+- **Neha raju** – Feature Engineering, Model Tuning, Documentation, Dashboard Support
+
+We collaborated on every stage of this project — from data collection and cleaning to modeling, automation, and visualization.
