@@ -85,6 +85,10 @@ Weather forecasting plays a crucial role in sectors like agriculture, transporta
 - Install required Python libraries:
   ```bash
   pip install -r requirements.txt
+Run the FastAPI App
+bash 
+  uvicorn main:app --reload
+
 --- 
 
 ## 👥 Contributors
