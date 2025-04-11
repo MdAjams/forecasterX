@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+joblib
+fastapi
+uvicorn
+pydantic
+matplotlib
+seaborn
+jinja2
+schedule
+requests
+python-dotenv
+pickle-mixin
+notebook
+ipykernel
