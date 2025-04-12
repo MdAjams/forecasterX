@@ -51,13 +51,10 @@ Weather forecasting plays a crucial role in sectors like agriculture, transporta
 
 ## 📈 KPIs Tracked on Dashboard
 
-- Forecasted Temperature (Today / 7 Days)
+- Forecasted Temperature 
 - Forecasted Humidity and Wind Speed
 - Rain Probability
 - Weather Condition
-- Model Accuracy, MAE, RMSE
-- Historical Weather Averages
-- Forecast Update Time
 
 ---
 
