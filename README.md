@@ -5,6 +5,8 @@
 This project aims to develop a Machine Learning (ML) model for predicting key weather metrics such as temperature, humidity, wind speed, and precipitation. It includes automated data updates and visualizes forecasts on a Supaboard dashboard, enabling users to access accurate, real-time weather insights.
 
 ---
+## Project Presentation Video Link 
+  https://drive.google.com/file/d/1lie3E3YJS6ncjj2LsElxV6EmZdcgBupk/view?usp=sharing
 
 ## 🧠 Problem Statement
 
