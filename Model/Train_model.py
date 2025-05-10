@@ -6,7 +6,7 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_squared_error, r2_score
 import joblib
 
-# Load the dataset with engineered features
+# Load the dataset 
 df = pd.read_csv("weather_data_with_features.csv")
 
 # Select features and target variable
